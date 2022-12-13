@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Will Tham",
+	"description": "This is a course taken from freeCodeCamp.org.",
+	"keywords": [ "freecodecamp", "npm", "package.json", "assignment" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
